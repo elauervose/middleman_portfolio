@@ -21,11 +21,6 @@
   </div><!-- AFPPSU -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
   </div><!-- Back to Top etc -->
   <hr class="featurette-divider">
 
@@ -53,15 +48,7 @@
   </div><!-- Oregon Volunteers -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
-  <hr class="featurette-divider">
-
-  <div class="featurette" id="pcs">
+  <!-- <div class="featurette" id="pcs">
     <img class="featurette-image pull-left" src="img/orange_badge.png">
     <h2 class="featurette-heading">Technology <span class="muted">The Portland Code School</span></h2>
     <h3>Director, 2013</h3>
@@ -72,16 +59,9 @@
         <li><a href="img/pcs_folding_puzzle_harder.pdf" target="_blank">Hard Folding Puzzle</a></li>
       </ul>
     </p>
-  </div><!-- PCS -->
+  </div> --><!-- PCS -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
-  <hr class="featurette-divider">
 
   <div class="featurette" id="cfs">
     <img class="featurette-image pull-right" src="img/lion3.png">
@@ -99,15 +79,9 @@
   </div><!-- CFS -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
-  <hr class="featurette-divider">
 
-  <div class="featurette" id="gsosw">
+
+  <!-- <div class="featurette" id="gsosw">
     <img class="featurette-image pull-left" src="img/gsosw2.png">
     <h2 class="featurette-heading">Program Management <span class="muted">Girl Scouts of Oregon & SW Washington</span></h2>
     <h3>Program Specialist, 2010 - 2012</h3>
@@ -123,16 +97,9 @@
   </div><!-- GSOSW -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
-
   <hr class="featurette-divider">
 
-  <div class="featurette" id="wrc">
+  <!-- <div class="featurette" id="wrc">
     <img class="featurette-image pull-right" src="img/americorps-wa-logo.png">
     <h2 class="featurette-heading">AmeriCorps <span class="muted">The Washington Reading Corps</span></h2>
 
@@ -185,17 +152,8 @@
     </div><!-- AmeriCorps Image Text Explanation -->
   </div><!-- WRC AmeriCorps -->
 
-  <br>
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
 
-  <hr class="featurette-divider">
-
-  <div class="featurette" id="oral-history">
+  <!-- <div class="featurette" id="oral-history">
     <img class="featurette-image pull-left" src="img/oral_history.jpg">
     <h2 class="featurette-heading">Oral History <span class="muted">Olympia Historical Society</span></h2>
     <h3>Life History of Winnifred Olson, 2006</h3>
@@ -204,15 +162,8 @@
   </div><!-- Oral history -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
-  <hr class="featurette-divider">
 
-  <div class="featurette" id="tortillas">
+<!--   <div class="featurette" id="tortillas">
     <iframe class="featurette-image pull-right" width="512" height="512" src="http://www.youtube.com/embed/yRpSexh5gc0" frameborder="0" allowfullscreen></iframe>
     <h2 class="featurette-heading">Storytelling <span class="muted">"Tortillas"</span></h2>
     <h3>Oral History, 2005</h3>
@@ -221,13 +172,6 @@
   </div><!-- Tortillas -->
   <br>
 
-  <div class="row">
-    <div class="span2 offset10">
-      <p><a class="btn btn-mini btn-info" href="#top">Back to Top »</a></P>
-      <p><a class="btn btn-mini btn-info" href="#browse-projects">Back to Projects »</a></P>
-    </div>
-  </div><!-- Back to Top etc -->
-  <hr class="featurette-divider">
 
   <!-- /END THE FEATURETTES
 
