@@ -1,0 +1,47 @@
+<% wrap_layout :application do %>
+
+
+  <section class="container page-content" >
+    <hr class="vertical-space2">
+    <div class="eleven columns portfolio-item">
+    <h1><%= current_page.data.title %></h1>
+    <% if current_page.data.description %>
+      <h3><%= current_page.data.description %></h3>
+    <% end %>
+    </div>
+    <section class="eleven columns">
+      <article>
+
+        <%= yield %>
+
+      </article>
+    </section>
+    <aside class="four columns offset-by-one sidebar">
+      <div class="portfolio-item-detail-box">
+      Date: 21 October 2013
+      <hr>
+      Cat: <a href="#" >Design</a>, <a href="#" >Video</a>
+
+      <h4 class="subtitle">Project Links</h4>
+      <div class="listbox1">
+        <ul>
+          <li><a href="#">Company </a></li>
+          <li><a href="#">News</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Other </a></li>
+        </ul>
+      </div>
+      <!-- end-listbox1 -->
+      <br class="clear">
+      <!-- <h4 class="subtitle">Text Widget</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor<a href="#"> exercitation</a> ut labore et dolore magna aliqua. Ut enim ad</p> -->
+      <br class="clear">
+      </div>
+    </aside>
+    <!-- end-sidebar-->
+    <hr class="vertical-space2">
+  </section>
+  <!-- container -->
+
+
+<% end %>
