@@ -1,13 +1,4 @@
 <!-- START THE FEATURETTES -->
-  <!-- <div class="featurette" id="pftp">
-    <iframe width="512" height="512" src="http://www.youtube.com/embed/Yt8vnltoZ_Y" frameborder="0" allowfullscreen></iframe>
-    <h2 class="featurette-heading">Marketing, PR, <span class="muted">& Communications</span></h2>
-    <h3>Portland Fruit Tree Project, 2012</h3>
-    <p class="lead">I produced this video for the Portland Fruit Tree Project's <a href="http://www.wweek.com/portland/giveguide">GiveGuide </a>application.</p>
-    <p class="lead">Telling the story of the Portland Fruit Tree Project was a mouth-watering, deliciously sweet summer project. It was so much fun, in fact, I created a second video featuring thier new <a href="http://youtu.be/TSYPm_xL8-8"><small>Bike Powered Harvests »</small></a></p>
-    <p><a href="http://portlandfruit.org/">Visit The Portland Fruit Tree Project Site »</a></p>
-  </div> --><!-- PFTP -->
-
 
   <hr class="featurette-divider">
   <div class="featurette" id="afppsu">
@@ -163,14 +154,7 @@
   <br>
 
 
-<!--   <div class="featurette" id="tortillas">
-    <iframe class="featurette-image pull-right" width="512" height="512" src="http://www.youtube.com/embed/yRpSexh5gc0" frameborder="0" allowfullscreen></iframe>
-    <h2 class="featurette-heading">Storytelling <span class="muted">"Tortillas"</span></h2>
-    <h3>Oral History, 2005</h3>
-    <p class="lead">I conducted an interview with an immigrant farm worker about his experiences in the U.S.</p>
-    <p class="lead">This is an excerpt of the interview featuring one of the stories he told. I edited, translated, and subtitled the story to create a short documentary film.</p>
-  </div><!-- Tortillas -->
-  <br>
+
 
 
   <!-- /END THE FEATURETTES
